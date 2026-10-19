@@ -1,4 +1,4 @@
-PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.00
+PRODUKTHELFER AUTOMATION – INSTALLIERBARE APP, VERSION V01.01
 ================================================================
 
 FUNKTION
@@ -7,6 +7,7 @@ FUNKTION
   - Industrielle Kommunikation              (V02.01)
   - Relais                                  (V02.00)
   - Trennverstärker & I/O-Signalrangierung  (V6.2)
+  - Sicherheitsschaltgeräte & Sensoren      (V02.00)
   - Ansprechpartner                         (V02.00)
   Dazu: Suche mit Alltagsbegriffen, Artikelnummern und Beschreibungen,
   Auswertung von Kundenanfragen über alle Bereiche, gemeinsame Merkliste
@@ -17,7 +18,8 @@ INHALT DES ORDNERS
   manifest.webmanifest     App-Beschreibung (Name, Icon, Schnellzugriffe)
   sw.js                    Offline-Betrieb
   icons/                   App-Icons
-  apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html
+  apps/automatisierung.html, kommunikation.html, relais.html, trennverstaerker.html,
+       sicherheit.html
   apps/ansprechpartner/    Ansprechpartner-Suche
        index.html, bilder/ (Beispielfotos), daten-beispiel.xlsx
 
@@ -29,7 +31,7 @@ BEREITSTELLEN & INSTALLIEREN
   Hinweis: Per Doppelklick (file://) blockiert der Browser die Verbindung
   zwischen Startseite und Produkthelfern (Suche → Produkt öffnen, Merkliste).
   Für die Nutzung ohne Server die Einzeldatei
-  Produkthelfer_Automation_V01_00.html verwenden.
+  Produkthelfer_Automation_V01_01.html verwenden.
 
 APPS AKTUALISIEREN
   Neue Version einer App unter demselben Dateinamen in „apps/“ ablegen und

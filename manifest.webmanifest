@@ -1,7 +1,7 @@
 {
  "name": "Produkthelfer Automation",
  "short_name": "Automation",
- "description": "Phoenix Contact Produkthelfer: Automatisierung, Kommunikation, Relais, Trennverstärker, Ansprechpartner",
+ "description": "Phoenix Contact Produkthelfer: Automatisierung, Kommunikation, Relais, Trennverstärker, Sicherheit, Ansprechpartner",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
@@ -42,6 +42,10 @@
   {
    "name": "Trennverstärker & I/O-Signalrangierung",
    "url": "./index.html#/tv"
+  },
+  {
+   "name": "Sicherheitsschaltgeräte & Sensoren",
+   "url": "./index.html#/ssg"
   },
   {
    "name": "Ansprechpartner",
